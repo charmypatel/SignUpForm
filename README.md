@@ -6,7 +6,7 @@ This Android application collects a user’s name, email, a password, and a pass
 
 - The project is useful because it ensures that when a user signs up for something, each field in the form is validated 
 to make sure items like name, email and password are entered in the correct format. The project can be used for anyone 
-who would like to sign up for an event, for example university events or parties
+who would like to sign up for an event, for example university events or parties.
 
 - Application does many things to ensure each field has the correct input and is filled in. To start, if any of the boxes
 in the form are left blank the user will get a toast message telling them which box they still need to fill in. Also when
