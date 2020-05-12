@@ -17,8 +17,6 @@ user will get a toast message telling them to fix it. Lastly, after everything i
 format, the user's name will be displayed in a toast message welcoming them to the app. 
 <br />
 
-<img src="Images/Screenshot1.png" width="300">  <img src="Images/Screenshot2.png" width="300">
-
-<img src="Images/Screenshot3.png" width="300">  <img src="Images/Screenshot4.png" width="300">
+<img src="Images/Screenshot3.png" width="215"> <img src="Images/Screenshot4.png" width="215"> <img src="Images/Screenshot1.png" width="215"> <img src="Images/Screenshot2.png" width="215"> 
 
 
