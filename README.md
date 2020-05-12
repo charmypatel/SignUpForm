@@ -3,7 +3,7 @@
 **Assignment 2**
 
 This was the second assignment I worked on for my CIS 3515 - Introduction to Mobile Application Development course. 
-The Android application collects a user’s name, email, a password, and a password confirmation. It also contains a Sign Up button. Afterwords it will display a message containing the user’s name, welcoming them to the app. e.g. “Welcome, Charmy, to the SignUpForm App”
+The Android application collects a user’s name, email, a password, and a password confirmation. It also contains a Sign Up button. Afterwords it will display a message containing the user’s name, welcoming them to the app. e.g. “Welcome, Charmy, to the SignUpForm App”.
 
 - The project is useful because it ensures that when a user signs up for something, each field in the form is validated 
 to make sure items like name, email and password are entered in the correct format. The project can be used for anyone 
